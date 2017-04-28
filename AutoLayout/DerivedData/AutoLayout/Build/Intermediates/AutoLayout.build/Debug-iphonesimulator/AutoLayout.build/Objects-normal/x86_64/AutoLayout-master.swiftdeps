@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "03f03c59021881b699174a20d9b245f2"
+build_time: [501264006, 982895000]
+inputs:
+  "/Users/martin/Documents/programovanie/bc/website/AutoLayout/AutoLayout/AppDelegate.swift": [501264002, 0]
+  "/Users/martin/Documents/programovanie/bc/website/AutoLayout/AutoLayout/ViewController.swift": [501264002, 0]

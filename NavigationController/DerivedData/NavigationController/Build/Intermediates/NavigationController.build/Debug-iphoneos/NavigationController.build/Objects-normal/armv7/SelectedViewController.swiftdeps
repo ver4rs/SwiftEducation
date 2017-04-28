@@ -1,0 +1,428 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SelectedViewController"
+provides-nominal:
+- "C20NavigationController22SelectedViewController"
+provides-member:
+- ["C20NavigationController22SelectedViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "setColorIndex"
+- "didReceiveMemoryWarning"
+- "viewColor"
+- "color"
+depends-top-level:
+- "Int"
+- "SelectedViewController"
+- !private "~="
+- "UIViewController"
+- !private "StringLiteralType"
+- "UIColor"
+- "UIView"
+- !private "print"
+depends-member:
+- !private ["PSs9AnyObject", "UIColor"]
+- !private ["PSs9AnyObject", "backgroundColor"]
+- !private ["PSs9AnyObject", "blackColor"]
+- !private ["PSs9AnyObject", "blueColor"]
+- ["PSs9AnyObject", "color"]
+- ["PSs9AnyObject", "colorIndex"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- !private ["PSs9AnyObject", "greenColor"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "print"]
+- !private ["PSs9AnyObject", "purpleColor"]
+- !private ["PSs9AnyObject", "redColor"]
+- ["PSs9AnyObject", "setColorIndex"]
+- ["PSs9AnyObject", "viewColor"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- !private ["PSs9AnyObject", "yellowColor"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs22BidirectionalIndexType", "Distance"]
+- !private ["PSs22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["PSs21BitwiseOperationsType", "Distance"]
+- !private ["PSs21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "Distance"]
+- !private ["PSs11CVarArgType", "IntegerLiteralType"]
+- !private ["PSs11CVarArgType", "UIColor"]
+- !private ["PSs11CVarArgType", "backgroundColor"]
+- !private ["PSs11CVarArgType", "blackColor"]
+- !private ["PSs11CVarArgType", "blueColor"]
+- ["PSs11CVarArgType", "color"]
+- ["PSs11CVarArgType", "colorIndex"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["PSs11CVarArgType", "greenColor"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "print"]
+- !private ["PSs11CVarArgType", "purpleColor"]
+- !private ["PSs11CVarArgType", "redColor"]
+- ["PSs11CVarArgType", "setColorIndex"]
+- ["PSs11CVarArgType", "viewColor"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- !private ["PSs11CVarArgType", "yellowColor"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs10Comparable", "Distance"]
+- !private ["PSs10Comparable", "IntegerLiteralType"]
+- !private ["PSs23CustomStringConvertible", "Distance"]
+- !private ["PSs23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["PSs23CustomStringConvertible", "UIColor"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "backgroundColor"]
+- !private ["PSs23CustomStringConvertible", "blackColor"]
+- !private ["PSs23CustomStringConvertible", "blueColor"]
+- ["PSs23CustomStringConvertible", "color"]
+- ["PSs23CustomStringConvertible", "colorIndex"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["PSs23CustomStringConvertible", "greenColor"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- !private ["PSs23CustomStringConvertible", "purpleColor"]
+- !private ["PSs23CustomStringConvertible", "redColor"]
+- ["PSs23CustomStringConvertible", "setColorIndex"]
+- ["PSs23CustomStringConvertible", "viewColor"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- !private ["PSs23CustomStringConvertible", "yellowColor"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "Distance"]
+- !private ["PSs9Equatable", "IntegerLiteralType"]
+- !private ["PSs9Equatable", "UIColor"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "backgroundColor"]
+- !private ["PSs9Equatable", "blackColor"]
+- !private ["PSs9Equatable", "blueColor"]
+- ["PSs9Equatable", "color"]
+- ["PSs9Equatable", "colorIndex"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- !private ["PSs9Equatable", "greenColor"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "print"]
+- !private ["PSs9Equatable", "purpleColor"]
+- !private ["PSs9Equatable", "redColor"]
+- ["PSs9Equatable", "setColorIndex"]
+- ["PSs9Equatable", "viewColor"]
+- ["PSs9Equatable", "viewDidLoad"]
+- !private ["PSs9Equatable", "yellowColor"]
+- ["PSs9Equatable", ""]
+- !private ["PSs16ForwardIndexType", "Distance"]
+- !private ["PSs16ForwardIndexType", "IntegerLiteralType"]
+- !private ["PSs8Hashable", "Distance"]
+- !private ["PSs8Hashable", "IntegerLiteralType"]
+- !private ["PSs8Hashable", "UIColor"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "backgroundColor"]
+- !private ["PSs8Hashable", "blackColor"]
+- !private ["PSs8Hashable", "blueColor"]
+- ["PSs8Hashable", "color"]
+- ["PSs8Hashable", "colorIndex"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- !private ["PSs8Hashable", "greenColor"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "print"]
+- !private ["PSs8Hashable", "purpleColor"]
+- !private ["PSs8Hashable", "redColor"]
+- ["PSs8Hashable", "setColorIndex"]
+- ["PSs8Hashable", "viewColor"]
+- ["PSs8Hashable", "viewDidLoad"]
+- !private ["PSs8Hashable", "yellowColor"]
+- ["PSs8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["PSs21IntegerArithmeticType", "Distance"]
+- !private ["PSs21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["PSs25IntegerLiteralConvertible", "Distance"]
+- !private ["PSs25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs11IntegerType", "Distance"]
+- !private ["PSs11IntegerType", "IntegerLiteralType"]
+- !private ["PSs14MirrorPathType", "Distance"]
+- !private ["PSs14MirrorPathType", "IntegerLiteralType"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "blackColor"]
+- !private ["PSo8NSCoding", "blueColor"]
+- ["PSo8NSCoding", "color"]
+- ["PSo8NSCoding", "colorIndex"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "greenColor"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "purpleColor"]
+- !private ["PSo8NSCoding", "redColor"]
+- ["PSo8NSCoding", "setColorIndex"]
+- ["PSo8NSCoding", "viewColor"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- !private ["PSo8NSCoding", "yellowColor"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "blackColor"]
+- !private ["PSo9NSCopying", "blueColor"]
+- !private ["PSo9NSCopying", "greenColor"]
+- !private ["PSo9NSCopying", "purpleColor"]
+- !private ["PSo9NSCopying", "redColor"]
+- !private ["PSo9NSCopying", "yellowColor"]
+- !private ["PSo26NSExtensionRequestHandling", "UIColor"]
+- ["PSo26NSExtensionRequestHandling", "color"]
+- ["PSo26NSExtensionRequestHandling", "colorIndex"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- ["PSo26NSExtensionRequestHandling", "setColorIndex"]
+- ["PSo26NSExtensionRequestHandling", "viewColor"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo8NSNumber", "deinit"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "UIColor"]
+- ["CSo8NSObject", "UIView"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "blackColor"]
+- !private ["CSo8NSObject", "blueColor"]
+- ["CSo8NSObject", "color"]
+- ["CSo8NSObject", "colorIndex"]
+- !private ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "greenColor"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "purpleColor"]
+- !private ["CSo8NSObject", "redColor"]
+- ["CSo8NSObject", "setColorIndex"]
+- ["CSo8NSObject", "viewColor"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["CSo8NSObject", "yellowColor"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "blackColor"]
+- !private ["PSo16NSObjectProtocol", "blueColor"]
+- ["PSo16NSObjectProtocol", "color"]
+- ["PSo16NSObjectProtocol", "colorIndex"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "greenColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "purpleColor"]
+- !private ["PSo16NSObjectProtocol", "redColor"]
+- ["PSo16NSObjectProtocol", "setColorIndex"]
+- ["PSo16NSObjectProtocol", "viewColor"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "yellowColor"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "blackColor"]
+- !private ["PSo14NSSecureCoding", "blueColor"]
+- !private ["PSo14NSSecureCoding", "greenColor"]
+- !private ["PSo14NSSecureCoding", "purpleColor"]
+- !private ["PSo14NSSecureCoding", "redColor"]
+- !private ["PSo14NSSecureCoding", "yellowColor"]
+- !private ["CSo7NSValue", "deinit"]
+- !private ["PSs21RandomAccessIndexType", "Distance"]
+- !private ["PSs21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["VSs5Range", "deinit"]
+- ["C20NavigationController22SelectedViewController", "Int"]
+- ["C20NavigationController22SelectedViewController", "UIColor"]
+- ["C20NavigationController22SelectedViewController", "UIView"]
+- ["C20NavigationController22SelectedViewController", "color"]
+- ["C20NavigationController22SelectedViewController", "colorIndex"]
+- ["C20NavigationController22SelectedViewController", "deinit"]
+- ["C20NavigationController22SelectedViewController", "didReceiveMemoryWarning"]
+- ["C20NavigationController22SelectedViewController", "init"]
+- !private ["C20NavigationController22SelectedViewController", "print"]
+- ["C20NavigationController22SelectedViewController", "setColorIndex"]
+- ["C20NavigationController22SelectedViewController", "viewColor"]
+- ["C20NavigationController22SelectedViewController", "viewDidLoad"]
+- !private ["PSs17SignedIntegerType", "Distance"]
+- !private ["PSs17SignedIntegerType", "IntegerLiteralType"]
+- !private ["PSs16SignedNumberType", "Distance"]
+- !private ["PSs16SignedNumberType", "IntegerLiteralType"]
+- !private ["PSs10Strideable", "Distance"]
+- !private ["PSs10Strideable", "IntegerLiteralType"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- ["PSo21UIAppearanceContainer", "color"]
+- ["PSo21UIAppearanceContainer", "colorIndex"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- ["PSo21UIAppearanceContainer", "setColorIndex"]
+- ["PSo21UIAppearanceContainer", "viewColor"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo7UIColor", "blackColor"]
+- !private ["CSo7UIColor", "blueColor"]
+- !private ["CSo7UIColor", "greenColor"]
+- !private ["CSo7UIColor", "purpleColor"]
+- !private ["CSo7UIColor", "redColor"]
+- !private ["CSo7UIColor", "yellowColor"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- ["PSo18UIContentContainer", "color"]
+- ["PSo18UIContentContainer", "colorIndex"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "print"]
+- ["PSo18UIContentContainer", "setColorIndex"]
+- ["PSo18UIContentContainer", "viewColor"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- ["PSo18UIFocusEnvironment", "color"]
+- ["PSo18UIFocusEnvironment", "colorIndex"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- ["PSo18UIFocusEnvironment", "setColorIndex"]
+- ["PSo18UIFocusEnvironment", "viewColor"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "UIColor"]
+- ["CSo11UIResponder", "UIView"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- ["CSo11UIResponder", "color"]
+- ["CSo11UIResponder", "colorIndex"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "setColorIndex"]
+- ["CSo11UIResponder", "viewColor"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo16UIStateRestoring", "UIColor"]
+- ["PSo16UIStateRestoring", "color"]
+- ["PSo16UIStateRestoring", "colorIndex"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "print"]
+- ["PSo16UIStateRestoring", "setColorIndex"]
+- ["PSo16UIStateRestoring", "viewColor"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- ["PSo18UITraitEnvironment", "color"]
+- ["PSo18UITraitEnvironment", "colorIndex"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- ["PSo18UITraitEnvironment", "setColorIndex"]
+- ["PSo18UITraitEnvironment", "viewColor"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "backgroundColor"]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "UIColor"]
+- ["CSo16UIViewController", "UIView"]
+- ["CSo16UIViewController", "color"]
+- ["CSo16UIViewController", "colorIndex"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "print"]
+- ["CSo16UIViewController", "setColorIndex"]
+- ["CSo16UIViewController", "viewColor"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs24_ColorLiteralConvertible", "blackColor"]
+- !private ["PSs24_ColorLiteralConvertible", "blueColor"]
+- !private ["PSs24_ColorLiteralConvertible", "greenColor"]
+- !private ["PSs24_ColorLiteralConvertible", "purpleColor"]
+- !private ["PSs24_ColorLiteralConvertible", "redColor"]
+- !private ["PSs24_ColorLiteralConvertible", "yellowColor"]
+- !private ["PSs14_Incrementable", "Distance"]
+- !private ["PSs14_Incrementable", "IntegerLiteralType"]
+- !private ["PSs22_IntegerArithmeticType", "Distance"]
+- !private ["PSs22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["PSs12_IntegerType", "Distance"]
+- !private ["PSs12_IntegerType", "IntegerLiteralType"]
+- !private ["PSs21_ObjectiveCBridgeable", "Distance"]
+- !private ["PSs21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs22_RandomAccessAmbiguity", "Distance"]
+- !private ["PSs22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["PSs12_Reflectable", "Distance"]
+- !private ["PSs12_Reflectable", "IntegerLiteralType"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "backgroundColor"]
+- !private ["PSs18_SignedIntegerType", "Distance"]
+- !private ["PSs18_SignedIntegerType", "IntegerLiteralType"]
+- !private ["PSs11_Strideable", "Distance"]
+- !private ["PSs11_Strideable", "IntegerLiteralType"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "PSs22BidirectionalIndexType"
+- !private "PSs21BitwiseOperationsType"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- !private "PSs10Comparable"
+- "PSs23CustomStringConvertible"
+- !private "Sd"
+- "PSs9Equatable"
+- !private "PSs16ForwardIndexType"
+- "PSs8Hashable"
+- "SQ"
+- !private "Si"
+- !private "PSs21IntegerArithmeticType"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "PSs11IntegerType"
+- !private "PSs14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "CSo8NSNumber"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo7NSValue"
+- !private "PSs21RandomAccessIndexType"
+- !private "VSs5Range"
+- "C20NavigationController22SelectedViewController"
+- !private "PSs17SignedIntegerType"
+- !private "PSs16SignedNumberType"
+- !private "PSs10Strideable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs33_BuiltinIntegerLiteralConvertible"
+- !private "PSs24_ColorLiteralConvertible"
+- !private "PSs14_Incrementable"
+- !private "PSs22_IntegerArithmeticType"
+- !private "PSs12_IntegerType"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs22_RandomAccessAmbiguity"
+- !private "PSs12_Reflectable"
+- !private "PSs18_SignedIntegerType"
+- !private "PSs11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+interface-hash: "ae4d3ad9558f9fe094c6a06690f57dd9"

@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "52dfb4903843ff773fb10eabb91041e0"
+build_time: [501762871, 983631000]
+inputs:
+  "/Users/martin/Documents/programovanie/bc/website/NavigationController/NavigationController/AppDelegate.swift": [501538952, 0]
+  "/Users/martin/Documents/programovanie/bc/website/NavigationController/NavigationController/ColorTableViewController.swift": [501717884, 0]
+  "/Users/martin/Documents/programovanie/bc/website/NavigationController/NavigationController/ViewController.swift": [501538952, 0]
+  "/Users/martin/Documents/programovanie/bc/website/NavigationController/NavigationController/ColoredTableViewController.swift": [9223372036854775807, 0]
+  "/Users/martin/Documents/programovanie/bc/website/NavigationController/NavigationController/SelectedViewController.swift": [501719482, 0]
